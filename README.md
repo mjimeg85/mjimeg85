@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimena</h1>
-<h3 align="center">A backend developer Jr.</h3>
+<h3 align="center">A Junior Backend Developer.</h3>
 
 - 🌱 I’m currently learning **REST Api in Java**
 
