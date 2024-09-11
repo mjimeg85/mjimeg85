@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimena</h1>
-<h3 align="center">A Junior Backend Developer.</h3>
+<h3 align="center">A Junior Data Analyst.</h3>
 
-- 🌱 I’m currently learning **REST Api in Java**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
